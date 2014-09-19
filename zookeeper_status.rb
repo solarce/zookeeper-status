@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 # zookeeper_status.rb
 
 # Brandon Burton, 2014
